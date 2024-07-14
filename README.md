@@ -16,6 +16,4 @@ The main files used in this project are:
 - `analysis.py`: This is the Python script used to analyze the data and create visualizations.
 - `report.pdf`: This is the final report that presents the insights from the analysis.
 
-### Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was inspired by the [Udacity Data Analyst Nanodegree Program](https://learn.udacity.com/nanodegrees/nd104). I also consulted several blog posts on Medium and Stack Overflow threads to help with the data analysis and visualization techniques.
