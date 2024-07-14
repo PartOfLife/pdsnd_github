@@ -1,6 +1,6 @@
 # The project explores data related to the bike-sharing system.
 
-This project, created on 2022/07/13, uses Python to explore and analyze data related to bike-sharing systems in three major U.S. cities—Chicago, New York City, and Washington. The goal is to answer interesting questions about the data by computing descriptive statistics and creating an interactive terminal experience to present these statistics.
+This project, created on 2022/07/09, uses Python to explore and analyze data related to bike-sharing systems in three major U.S. cities—Chicago, New York City, and Washington. The goal is to answer interesting questions about the data by computing descriptive statistics and creating an interactive terminal experience to present these statistics.
 
 ## Description
 
