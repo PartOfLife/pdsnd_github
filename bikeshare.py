@@ -1,3 +1,4 @@
+# Import necessary libraries
 import time
 import pandas as pd
 import numpy as np
@@ -172,6 +173,8 @@ def user_stats(df):
 def main():
     while True:
         city, month, day = get_filters()
+
+        # Load the data from the CSV file
         df = load_data(city, month, day)
 
         time_stats(df)
